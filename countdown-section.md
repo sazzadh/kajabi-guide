@@ -37,7 +37,7 @@
 </div>
 
 
-{% schema %}
+    {% schema %}
 {
   "name": "(18) CTA Countdown",
   "elements": [
@@ -102,5 +102,5 @@
   ]
 
 }
-{% endschema %}
+    {% endschema %}
 ```

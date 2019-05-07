@@ -9,3 +9,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 * [Variable](https://sazzadh.github.io/kajabi-guide/variable.html)
 * [Countdown](https://sazzadh.github.io/kajabi-guide/countdown-section.html)
 * [Quick Section Example](https://sazzadh.github.io/kajabi-guide/section-example.html)
+* [Video](https://sazzadh.github.io/kajabi-guide/video.html)

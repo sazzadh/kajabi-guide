@@ -2,10 +2,12 @@
 
 
 ```liquid
+{% raw %}
 {% assign s-ID            = section.id %}
 {% assign s-BgVideo       = current_site.find_video[section.settings.bg_video] %}
 {% assign s-BgVideoID     = s-BgVideo.wistia_id %}
 {% assign s-BgImage       = section.settings.bg_video_cover | image_picker_url %}
+{% endraw %}
 ```
 
 ```html
